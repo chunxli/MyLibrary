@@ -1,3 +1,3 @@
 public struct MyLibrary {
-    public var text = "Hello, World!"
+    static var text = "Hello, World!"
 }
