@@ -1,3 +1,6 @@
 public struct MyLibrary {
-    static var text = "Hello, World!"
+    public init() {
+        self.init()
+    }
+    public static var text = "Hello, World!"
 }
